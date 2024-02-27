@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [iBoda](https://www.github.com/fibonacci555/iBoda)
 
-- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Python, Java, C++, HTML**
 
