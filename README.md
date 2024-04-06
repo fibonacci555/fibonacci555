@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Diogo</h1>
-<h3 align="center">A passionate full stack, games, AI/NN and script/automation developer!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fibonacci555&label=Profile%20views&color=0e75b6&style=flat" alt="fibonacci555" /> </p>
-
-- 🔭 I’m currently working on [iBoda](https://www.github.com/fibonacci555/iBoda)
 
 
-- 💬 Ask me about **Python, Java, C++, HTML**
-
-- 📫 How to reach me **joaodfb3@gmail.com**
+- 📫 How to reach me **joaodfreitasbranco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
