@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a81874c-0e71-447b-baef-537b07702503)<h1 align="center">Hi 👋, I'm João Diogo</h1>
+<h1 align="center">Hi 👋, I'm João Diogo</h1>
 
 <p align="middle">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-freitas-branco/">
