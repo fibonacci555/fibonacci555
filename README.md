@@ -5,7 +5,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-branco-284567200/" height="30" width="40" /></a>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fibonacci555&show_icons=true&locale=en&layout=compact" alt="fibonacci555" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fibonacci555&show_icons=true&locale=en&layout=compact" alt="fibonacci555" />
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)</p>
 
 
 
